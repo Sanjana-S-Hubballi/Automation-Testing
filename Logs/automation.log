@@ -161,4 +161,36 @@
 06232025 12:03:46 AM: INFO: ************* Verifying Home Page Title **********
 06232025 12:03:48 AM: INFO: ************* Home Page Title test is passed **********
 06232025 12:03:50 AM: INFO: ************* Verifying Login test **********
-06232025 12:04:08 AM: ERROR: ************* Login test failed. Actual title: Just a moment... **********
+06222025 12:06:08 AM: INFO: ************* Login test is passed **********
+06232025 12:06:08 AM: INFO: ************* Test_003_AddCustomer **********
+06232025 12:06:08 AM: INFO: ************* Login successful **********
+06232025 12:06:08 AM: INFO: ************* Starting Add Customer Test **********
+06232025 12:06:08 AM: INFO: ************* Providing customer info **********
+06232025 12:06:08 AM: INFO: ************* Saving customer info **********
+06232025 12:06:08 AM: INFO: ************* Add customer validation started **********
+06232025 12:06:08 AM: INFO: ************* Add customer Test Passed **********
+06232025 12:06:08 AM: INFO: ************* Ending Add customer test **********
+06232025 12:06:09 AM: INFO: ************* SearchCustomerByEmail_004 **********
+06232025 12:06:09 AM: INFO: ************* Starting Search Customer By Email **********
+06232025 12:06:09 AM: INFO: ************* searching customer by emailID **********
+06232025 12:06:09 AM: INFO: ************* TC_SearchCustomerByEmail_004 Finished **********
+06232025 12:06:09 AM: INFO: ************* SearchCustomerByName_005 **********
+06232025 12:06:09 AM: INFO: ************* Login successful **********
+06232025 12:06:09 AM: INFO: ************* Starting Search Customer By Name **********
+06232025 12:06:09 AM: INFO: ************* searching customer by Name **********
+06232025 12:06:09 AM: INFO: ************* TC_SearchCustomerByName_005 Finished **********
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
