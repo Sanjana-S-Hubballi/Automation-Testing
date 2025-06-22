@@ -1,0 +1,164 @@
+06202025 08:35:59 PM: INFO: ************* Test_001_Login **********
+06202025 08:35:59 PM: INFO: ************* Verifying Home Page Title **********
+06202025 08:36:14 PM: INFO: ************* Home Page Title test is passed **********
+06202025 08:36:18 PM: INFO: ************* Verifying Login test **********
+06202025 08:36:52 PM: INFO: ************* Login test is passed **********
+06202025 09:22:51 PM: INFO: ************* Test_001_Login **********
+06202025 09:22:51 PM: INFO: ************* Verifying Home Page Title **********
+06202025 09:22:55 PM: INFO: ************* Home Page Title test is passed **********
+06202025 09:22:57 PM: INFO: ************* Verifying Login test **********
+06202025 09:23:01 PM: ERROR: ************* Login test is failed **********
+06202025 09:24:54 PM: INFO: ************* Test_001_Login **********
+06202025 09:24:54 PM: INFO: ************* Verifying Home Page Title **********
+06202025 09:24:57 PM: INFO: Actual title after login: nopCommerce demo store. Login
+06202025 09:24:57 PM: INFO: ************* Home Page Title test is passed **********
+06202025 09:24:58 PM: INFO: ************* Verifying Login test **********
+06202025 09:25:03 PM: INFO: Actual title after login: Just a moment...
+06202025 09:25:04 PM: ERROR: ************* Login test is failed **********
+06202025 09:26:16 PM: INFO: ************* Test_001_Login **********
+06202025 09:26:16 PM: INFO: ************* Verifying Home Page Title **********
+06202025 09:26:19 PM: INFO: ************* Home Page Title test is passed **********
+06202025 09:26:20 PM: INFO: ************* Verifying Login test **********
+06202025 09:26:24 PM: INFO: Actual title after login: Just a moment...
+06202025 09:26:25 PM: ERROR: ************* Login test is failed **********
+06202025 09:28:02 PM: INFO: ************* Verifying Login test **********
+06202025 09:28:06 PM: ERROR: ************* Login test is failed: name 'By' is not defined **********
+06202025 10:53:24 PM: INFO: ************* Test_001_Login **********
+06202025 10:53:24 PM: INFO: ************* Verifying Home Page Title **********
+06202025 10:53:28 PM: INFO: ************* Home Page Title test is passed **********
+06202025 10:53:29 PM: INFO: ************* Verifying Login test **********
+06202025 10:53:36 PM: INFO: Actual title after login: Dashboard / nopCommerce administration
+06202025 10:53:36 PM: INFO: ************* Login test is passed **********
+06202025 10:58:46 PM: INFO: ************* Test_001_Login **********
+06202025 10:58:46 PM: INFO: ************* Verifying Home Page Title **********
+06202025 10:58:48 PM: INFO: ************* Home Page Title test is passed **********
+06202025 10:58:50 PM: INFO: ************* Verifying Login test **********
+06202025 10:58:53 PM: INFO: Actual title after login: Just a moment...
+06202025 10:58:53 PM: ERROR: ************* Login test is failed **********
+06202025 11:18:30 PM: INFO: ************* Test_001_Login **********
+06202025 11:18:30 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:18:33 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:18:34 PM: INFO: ************* Verifying Login test **********
+06202025 11:18:37 PM: INFO: Actual title after login: nopCommerce demo store. Login
+06202025 11:18:37 PM: ERROR: ************* Login test is failed **********
+06202025 11:18:53 PM: INFO: ************* Test_001_Login **********
+06202025 11:18:53 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:18:55 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:18:57 PM: INFO: ************* Verifying Login test **********
+06202025 11:19:00 PM: INFO: Actual title after login: nopCommerce demo store. Login
+06202025 11:19:01 PM: ERROR: ************* Login test is failed **********
+06202025 11:19:29 PM: INFO: ************* Test_001_Login **********
+06202025 11:19:29 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:19:31 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:19:33 PM: INFO: ************* Verifying Login test **********
+06202025 11:19:36 PM: INFO: Actual title after login: nopCommerce demo store. Login
+06202025 11:19:36 PM: ERROR: ************* Login test is failed **********
+06202025 11:19:56 PM: INFO: ************* Test_001_Login **********
+06202025 11:19:56 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:19:59 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:20:00 PM: INFO: ************* Verifying Login test **********
+06202025 11:20:03 PM: INFO: Actual title after login: nopCommerce demo store. Login
+06202025 11:20:04 PM: ERROR: ************* Login test is failed **********
+06202025 11:20:31 PM: INFO: ************* Test_001_Login **********
+06202025 11:20:31 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:20:34 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:20:36 PM: INFO: ************* Verifying Login test **********
+06202025 11:20:39 PM: INFO: Actual title after login: nopCommerce demo store. Login
+06202025 11:20:39 PM: ERROR: ************* Login test is failed **********
+06202025 11:22:57 PM: INFO: ************* Test_001_Login **********
+06202025 11:22:57 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:23:00 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:23:01 PM: INFO: ************* Verifying Login test **********
+06202025 11:23:05 PM: INFO: Actual title after login: Just a moment...
+06202025 11:23:05 PM: ERROR: ************* Login test is failed **********
+06202025 11:24:40 PM: INFO: ************* Test_001_Login **********
+06202025 11:24:40 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:24:43 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:24:44 PM: INFO: ************* Verifying Login test **********
+06202025 11:24:58 PM: ERROR: ************* Login test failed. Actual title: Just a moment... **********
+06202025 11:26:59 PM: INFO: ************* Test_001_Login **********
+06202025 11:26:59 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:27:01 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:27:02 PM: INFO: ************* Verifying Login test **********
+06202025 11:27:20 PM: ERROR: ************* Login test failed. Actual title: Just a moment... **********
+06202025 11:29:20 PM: INFO: ************* Test_001_Login **********
+06202025 11:29:20 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:29:23 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:29:24 PM: INFO: ************* Verifying Login test **********
+06202025 11:29:30 PM: INFO: ************* Login test is passed **********
+06202025 11:39:40 PM: INFO: ************* Verifying Login test **********
+06202025 11:39:47 PM: INFO: ************* Login test is passed **********
+06202025 11:41:02 PM: INFO: ************* Verifying Login test **********
+06202025 11:41:07 PM: INFO: ************* Login test is passed **********
+06202025 11:42:44 PM: INFO: ************* Test_001_Login **********
+06202025 11:42:44 PM: INFO: ************* Verifying Home Page Title **********
+06202025 11:42:47 PM: INFO: ************* Home Page Title test is passed **********
+06202025 11:42:48 PM: INFO: ************* Verifying Login test **********
+06202025 11:42:54 PM: INFO: ************* Login test is passed **********
+06212025 12:15:38 AM: INFO: ************* Test_001_Login **********
+06212025 12:15:38 AM: INFO: ************* Verifying Home Page Title **********
+06212025 12:15:40 AM: INFO: ************* Home Page Title test is passed **********
+06212025 12:15:42 AM: INFO: ************* Verifying Login test **********
+06212025 12:15:45 AM: INFO: ************* Login test is passed **********
+06212025 12:16:06 AM: INFO: *********** Test_002_DDT_Login*************
+06212025 12:16:06 AM: INFO: ************* Verifying Login DDT test **********
+06212025 12:16:14 AM: INFO: *** Passed ***
+06212025 12:16:16 AM: INFO: ********* Login DDT test passed... **********
+06212025 12:19:06 AM: INFO: *********** Test_002_DDT_Login*************
+06212025 12:19:06 AM: INFO: ************* Verifying Login DDT test **********
+06212025 12:19:18 AM: INFO: *** Passed ***
+06212025 12:19:26 AM: INFO: *** Passed ***
+06212025 12:19:31 AM: INFO: *** Passed ***
+06212025 12:19:37 AM: INFO: *** Passed ***
+06212025 12:19:37 AM: INFO: ********* Login DDT test passed... **********
+06212025 12:19:37 AM: INFO: *** End of Login DDT Test ***
+06212025 12:19:37 AM: INFO: ***** Completed TC_LoginDDT_002 *****
+06212025 02:41:00 PM: INFO: ************* Test_001_Login **********
+06212025 02:41:00 PM: INFO: ************* Verifying Home Page Title **********
+06212025 02:41:03 PM: INFO: ************* Home Page Title test is passed **********
+06212025 02:41:04 PM: INFO: ************* Verifying Login test **********
+06212025 02:41:10 PM: INFO: ************* Login test is passed **********
+06212025 02:41:40 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 02:45:24 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 02:45:28 PM: INFO: ************* Login succesful **********
+06212025 02:45:28 PM: INFO: ******* Starting Add Customer Test **********
+06212025 02:50:16 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 02:50:22 PM: INFO: ************* Login succesful **********
+06212025 02:50:22 PM: INFO: ******* Starting Add Customer Test **********
+06212025 02:54:46 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 02:54:52 PM: INFO: ************* Login succesful **********
+06212025 02:54:52 PM: INFO: ******* Starting Add Customer Test **********
+06212025 03:02:46 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 03:02:52 PM: INFO: ************* Login succesful **********
+06212025 03:02:52 PM: INFO: ******* Starting Add Customer Test **********
+06212025 03:02:54 PM: INFO: ************* Providing customer info **********
+06212025 03:03:18 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 03:03:24 PM: INFO: ************* Login succesful **********
+06212025 03:03:24 PM: INFO: ******* Starting Add Customer Test **********
+06212025 03:03:27 PM: INFO: ************* Providing customer info **********
+06212025 03:11:53 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 03:11:59 PM: INFO: ************* Login succesful **********
+06212025 03:11:59 PM: INFO: ******* Starting Add Customer Test **********
+06212025 03:12:02 PM: INFO: ************* Providing customer info **********
+06212025 03:20:48 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 03:20:54 PM: INFO: ************* Login succesful **********
+06212025 03:20:54 PM: INFO: ******* Starting Add Customer Test **********
+06212025 03:20:56 PM: INFO: ************* Providing customer info **********
+06212025 03:24:46 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 03:24:48 PM: INFO: ************* Login succesful **********
+06212025 03:24:48 PM: INFO: ******* Starting Add Customer Test **********
+06212025 03:24:52 PM: INFO: ************* Providing customer info **********
+06212025 03:28:59 PM: INFO: ************* Test_003_AddCustomer **********
+06212025 03:29:05 PM: INFO: ************* Login succesful **********
+06212025 03:29:05 PM: INFO: ******* Starting Add Customer Test **********
+06212025 03:29:08 PM: INFO: ************* Providing customer info **********
+06222025 11:45:54 PM: INFO: ************* Test_001_Login **********
+06222025 11:45:54 PM: INFO: ************* Verifying Home Page Title **********
+06222025 11:45:56 PM: INFO: ************* Home Page Title test is passed **********
+06222025 11:45:57 PM: INFO: ************* Verifying Login test **********
+06222025 11:46:02 PM: INFO: ************* Login test is passed **********
+06232025 12:03:46 AM: INFO: ************* Test_001_Login **********
+06232025 12:03:46 AM: INFO: ************* Verifying Home Page Title **********
+06232025 12:03:48 AM: INFO: ************* Home Page Title test is passed **********
+06232025 12:03:50 AM: INFO: ************* Verifying Login test **********
+06232025 12:04:08 AM: ERROR: ************* Login test failed. Actual title: Just a moment... **********
